@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    background-image: url(istockphoto-1029498170-612x612.jpeg);
+    background-repeat: inherit;
+    background-size:cover;
+}
+.fo{
+color: aliceblue;
+}
+.od{
+    color: black;
+    padding:16px 20px;
+    margin-bottom: 20px;
+     border-radius: 6px;
+     background-color: aliceblue;
+text-align: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 50%auto;
+}
+.od:hover{}
